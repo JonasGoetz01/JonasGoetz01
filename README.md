@@ -53,6 +53,8 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
-  </div>     |    <div style="width: 48%;">
+  </div>
+  </div>
+<div style="width: 48%;">
     <p><img style="width: 20%; height: auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasgoetz01&show_icons=true&locale=en&layout=compact" alt="jonasgoetz01" /></p>
-  </div>     |
+  </div>
