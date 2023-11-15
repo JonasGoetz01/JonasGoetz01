@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas Götz</h1>
 <h3 align="center">I'm a software developer currently studying at 42 coding School Heilbronn.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasgoetz01&label=Profile%20views&color=0e75b6&style=flat" alt="jonasgoetz01" /> </p>
+![](https://komarev.com/ghpvc/?username=jonasgoetz01)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jonasgoetz01&title=MultiLanguage,Followers,Stars,Joined2020,Commits,Experience,PullRequests&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
