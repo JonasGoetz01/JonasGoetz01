@@ -46,8 +46,4 @@
       </a>
     </div>
   </div>
-<div style="width: 48%;">
-  <p>
-    <img style="width: 20%; height: auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasgoetz01&show_icons=true&locale=en&layout=compact" alt="jonasgoetz01" />
-  </p>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&hide=handlebars)
