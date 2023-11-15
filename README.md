@@ -21,10 +21,12 @@
 ### Languages and Tools:
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&layout=compact&hide=Handlebars&theme=dracula" width="20%" />
-  <ul>
-    <li>Angular</li>
-    <li>Kotlin API</li>
-    <li>Kubernetes</li>
-    <li>Systemadministration</li>
-  </ul>
+  <div style="width: 80%">
+    <ul>
+      <li>Angular</li>
+      <li>Kotlin API</li>
+      <li>Kubernetes</li>
+      <li>Systemadministration</li>
+    </ul>
+  </div>
 </p>
