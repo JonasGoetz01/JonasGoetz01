@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jonasgoetz01)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jonasgoetz01&title=MultiLanguage,Followers,Stars,Joined2020,Commits,Experience,PullRequests&theme=dracula&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jonasgoetz01&title=MultiLanguage,Followers,Stars,Joined2020,Commits,Experience,PullRequest&theme=dracula&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Some projects of the core curriculum at the 42 Heilbronn](https://github.com/JonasGoetz01/42-pipex)
 
