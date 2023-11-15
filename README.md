@@ -21,7 +21,7 @@
 ### Languages and Tools:
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&layout=compact&hide=Handlebars&theme=dracula" width="20%" />
-  <div style="width: 80%">
+  <div style="width: 70%">
     <ul>
       <li>Angular</li>
       <li>Kotlin API</li>
