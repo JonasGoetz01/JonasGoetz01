@@ -67,6 +67,6 @@
   </div>
 
   <div style="float: left; width: 50%">
-    <p><img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasgoetz01&show_icons=true&locale=en&layout=compact" alt="jonasgoetz01" /></p>
+    <p><img style="width: 20%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasgoetz01&show_icons=true&locale=en&layout=compact" alt="jonasgoetz01" /></p>
   </div>
 </div>
