@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasgoetz01&label=Profile%20views&color=0e75b6&style=flat" alt="jonasgoetz01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 10%; height: 10%" src="https://github-profile-trophy.vercel.app/?username=jonasgoetz01" alt="jonasgoetz01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 50%; height: 50%" src="https://github-profile-trophy.vercel.app/?username=jonasgoetz01" alt="jonasgoetz01" /></a> </p>
 
 - 🔭 I’m currently working on [Some projects of the core curriculum at the 42 Heilbronn](https://github.com/JonasGoetz01/42-pipex)
 
