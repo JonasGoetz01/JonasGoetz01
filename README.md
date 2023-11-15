@@ -46,4 +46,4 @@
       </a>
     </div>
   </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&hide=handlebars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01)
