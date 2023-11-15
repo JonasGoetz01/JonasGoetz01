@@ -52,3 +52,21 @@
     <p><img style="width: 100%; height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasgoetz01&show_icons=true&locale=en&layout=compact" alt="jonasgoetz01" /></p>
   </div>
 </div>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; margin-right: 10px;">
+    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+    </a> 
+    <!-- Add more icons here -->
+  </div>
+
+  <div style="flex: 1;">
+    <p><img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasgoetz01&show_icons=true&locale=en&layout=compact" alt="jonasgoetz01" /></p>
+  </div>
+</div>
