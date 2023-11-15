@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasgoetz01&label=Profile%20views&color=0e75b6&style=flat" alt="jonasgoetz01" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jonasgoetz01&title=MultiLanguage,Followers,Stars,Joined2020,Commits,Experience,PullRequests)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jonasgoetz01&title=MultiLanguage,Followers,Stars,Joined2020,Commits,Experience,PullRequests&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Some projects of the core curriculum at the 42 Heilbronn](https://github.com/JonasGoetz01/42-pipex)
 
