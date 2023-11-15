@@ -21,11 +21,11 @@
 ### Languages and Tools:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&layout=compact&hide=Handlebars&theme=dracula)
 
-![](https://angular.io/assets/images/logos/angular/angular.svg)
-![](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) 
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) 
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) 
-![](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg) 
-![](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) 
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg) 
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) 
+![](https://angular.io/assets/images/logos/angular/angular.svg){: style="height:83px"}
+![](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) {: style="height:83px"}
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) {: style="height:83px"}
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) {: style="height:83px"}
+![](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg) {: style="height:83px"}
+![](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) {: style="height:83px"}
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg) {: style="height:83px"}
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) {: style="height:83px"}
