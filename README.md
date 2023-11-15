@@ -19,7 +19,7 @@
 </a>
 
 ### Languages and Tools:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&layout=compact&hide=Handlebars&theme=dracula)
 
 ![](https://angular.io/assets/images/logos/angular/angular.svg)
 ![](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) 
