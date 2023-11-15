@@ -21,15 +21,7 @@
 ### Languages and Tools:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&layout=compact&hide=Handlebars&theme=dracula)
 
-#![](https://angular.io/assets/images/logos/angular/angular.svg)
-#![](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
-#![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
 
-#![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-#![](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
-#![](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
-#![](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg)
-#![](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
 <p float="left">
   <img src="[https://bobbyhadz.com/images/blog/python-print-tab/thumbnail.webp](https://angular.io/assets/images/logos/angular/angular.svg)" width="33%" />
   <img src="[https://bobbyhadz.com/images/blog/what-aws-cdk-bootstrap-do/thumbnail.webp](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)" width="33%" />
