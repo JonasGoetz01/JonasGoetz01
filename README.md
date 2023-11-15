@@ -23,7 +23,7 @@
 
 
 <p float="left">
-  <img src="[https://bobbyhadz.com/images/blog/python-print-tab/thumbnail.webp](https://angular.io/assets/images/logos/angular/angular.svg)" width="33%" />
-  <img src="[https://bobbyhadz.com/images/blog/what-aws-cdk-bootstrap-do/thumbnail.webp](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)" width="33%" />
-  <img src="[https://bobbyhadz.com/images/blog/aws-cdk-subnet-tags/thumbnail.webp](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="33%" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="33%" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="33%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="33%" />
 </p>
