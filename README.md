@@ -20,13 +20,5 @@
 
 ### Languages and Tools:
 <div style="display: flex; align-items: top;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&layout=compact&hide=Handlebars&theme=dracula" width="20%" />
-  <div style="width: 80%; margin-left: 10px;">
-    <ul>
-      <li>Angular</li>
-      <li>Kotlin API</li>
-      <li>Kubernetes</li>
-      <li>Systemadministration</li>
-    </ul>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&layout=compact&hide=Handlebars&theme=dracula" />
 </div>
