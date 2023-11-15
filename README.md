@@ -24,11 +24,7 @@
 
 
   
-</div>
-
-| | |
-| --------- | ------- |
-| <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="width: 48%;">
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
