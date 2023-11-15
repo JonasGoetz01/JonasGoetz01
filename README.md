@@ -19,6 +19,7 @@
 </a>
 
 ### Languages and Tools:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01)
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="width: 48%;">
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -46,4 +47,3 @@
       </a>
     </div>
   </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01)
