@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonas Götz</h1>
+100<h1 align="center">Hi 👋, I'm Jonas Götz</h1>
 <h3 align="center">I'm a software developer currently studying at 42 coding School Heilbronn.</h3>
 
 ![](https://komarev.com/ghpvc/?username=jonasgoetz01)
@@ -23,12 +23,12 @@
 
 
 <p float="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="33%" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="33%" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="33%" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="33%" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="33%" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="33%" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="33%" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="33%" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="12.5%" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="12.5%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="12.5%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="12.5%" />
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="12.5%" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="12.5%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="12.5%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="12.5%" />
 </p>
