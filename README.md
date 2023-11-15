@@ -29,5 +29,3 @@
 ![](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) 
 ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg) 
 ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) 
-</a>
-
