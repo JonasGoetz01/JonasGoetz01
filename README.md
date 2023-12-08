@@ -22,3 +22,8 @@
 <div style="display: flex; align-items: top;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasgoetz01&layout=compact&hide=Handlebars&theme=dracula" />
 </div>
+
+Have fun: 
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/JonasGoetz01/sui/v1/install.sh)"
+```
