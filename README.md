@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonas Götz</h1>
-<h3 align="center">I'm a software developer currently studying at 42 coding School Heilbronn.</h3>
 
 ![](https://komarev.com/ghpvc/?username=jonasgoetz01)
 
-- 🔭 I’m currently working on [Some projects of the core curriculum at the 42 Heilbronn](https://github.com/JonasGoetz01/42-pipex)
-
 - 🚀 Starting CORE! Visit us on [Github](https://github.com/42core-team)
-
-- 🌱 I’m currently learning **C, C++, UNIX Systems**
 
 - 💬 Ask me about **Web development, Embedded systems, 42 School**
 
